@@ -1,0 +1,9 @@
+# Local device configuration and secrets
+include/config.h
+
+# PlatformIO build output
+.pio/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
